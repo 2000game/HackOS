@@ -1,0 +1,4 @@
+:loop
+calc
+
+goto :loop
